@@ -1,2 +1,2 @@
-# Optimization methods
-There will be solutions to home problems in the course of optimization methods
+# Deepfake detection
+Here are copies of implementation methods of deepfake detection. The oroginal papers are here: 
