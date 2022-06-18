@@ -1,2 +1,2 @@
-# Deepfake detection
-Here are copies of implementation methods of deepfake detection. The oroginal papers are here: 
+# Optimization course
+Homework and project that were completed in the optimization course at MIPT
